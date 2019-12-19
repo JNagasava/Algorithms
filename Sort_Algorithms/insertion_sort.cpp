@@ -1,6 +1,7 @@
 /* It sorts an array of int values with complexity O(n²) -> Ascending Order
     Parameter:
-        int* array -> array of int values */
+        int* array -> array of int values 
+        int array_size -> size of array */
 void insertion_sort(int* array, int array_size){
 
     // Sorting
