@@ -11,3 +11,7 @@
 ### Quick Sort
 
 ![quick sort gif](https://upload.wikimedia.org/wikipedia/en/f/f7/Quick_sort_animation.gif)
+
+### Heap Sort
+
+![heap sort gif](https://www.ime.usp.br/~pf/algoritmos/aulas/img/Heapsort-github.gif)
