@@ -1,8 +1,8 @@
-/* Funtion to calculate the n-term of fibonacci sequence (recursive function)
+/* Funtion to calculate the Nth term of fibonacci sequence (recursive function)
     Parameter:
         int n -> index of n-term
     Return:
-        int -> value of n-term */
+        int -> value of Nth term */
 int fibonacci(int n){
 
     if(n < 0){
